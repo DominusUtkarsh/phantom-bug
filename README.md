@@ -1,6 +1,6 @@
 - 👋 Hi, I’m utkarsh
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me : https://www.linkedin.com/in/web-utkarsh
 - https://x.com/web_utkarsh
